@@ -1,0 +1,8 @@
+X,Y,fid,pont_neve,tervezett_talp,injektál_anyag_conc,inj_mennyiség_m3,Tény,icon_url
+19.0721700423352,47.6431840172636,"1",LPIn-01,13.2,"nZVI; 5000 ppm",4,4 m3 5000 ppm-es nZVI injektálva 2022.05.05-én (csütörtök),./0.png
+19.0723268033397,47.6427239126342,"2",LPIm-02,13.1,"mZVI; 40%",4,újravibrózva,./0.png
+19.0757862352605,47.6465358926251,"3",EPIm-03,16,"mZVI; 40%",4,4 m3 10000 ppm-es nZVI-vel injektálva 2022.05.04-én (szerda),./0.png
+19.075837057902,47.6464943175849,"4",EUK-01,16,"szűrő: 14,5-16,0",0,,./1.png
+19.0720837497886,47.6466621670222,"5",EPIn-04,13,"nZVI; 10000 ppm",4,újravibrózva,./0.png
+19.0720943777696,47.6466171929169,"6",EUK-02,13,"szűrő: 11,5-13,0",0,,./1.png
+19.0731010957958,47.6464167367676,"7",EPIn-05,12.8,"nZVI, 5000 ppm",4,4 m3 5000 ppm-es nZVI-vel injektálva 2022.05.04-én (szerda),./0.png
